@@ -16,6 +16,16 @@
   <img src="https://img.shields.io/badge/Architecture-Free--First%20%26%20Zero--Leak-success?style=flat-square" alt="Architecture" />
 </p>
 
+<p align="center">
+  <a href="https://nabungin-drab.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-nabungin--drab.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo Nabungin" />
+  </a>
+</p>
+
+<p align="center">
+  🌐 <strong>Live Production URL:</strong> <a href="https://nabungin-drab.vercel.app/">https://nabungin-drab.vercel.app/</a>
+</p>
+
 ---
 
 ## 📌 Ringkasan Eksekutif
